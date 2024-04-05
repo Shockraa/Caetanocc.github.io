@@ -81,5 +81,5 @@ function VINICIUS_TAVARES() {
 
 function GUSTAVO_SOARES() {
     linkGit = document.querySelector("#GUSTAVO_SOARES")
-    linkGit.innerText = '<a href="https://github.com/Shockraa">https://github.com/Shockraa</a>'
+    linkGit.innerText = '<a href="https://github.com/Shockraa">https://github.com/Shockraa</a>';
   }
